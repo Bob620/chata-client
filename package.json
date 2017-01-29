@@ -1,0 +1,22 @@
+{
+  "name": "chata-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bob620/chata-client.git"
+  },
+  "author": "Bob620",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bob620/chata-client/issues"
+  },
+  "homepage": "https://github.com/Bob620/chata-client#readme",
+  "dependencies": {
+    "socket.io-client": "^1.7.2"
+  }
+}
