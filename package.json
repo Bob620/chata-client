@@ -1,6 +1,6 @@
 {
   "name": "chata-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Bob620/chata-client#readme",
   "dependencies": {
-    "socket.io-client": "^1.7.2"
+    "socket.io-client": "^2.1.1"
   }
 }
